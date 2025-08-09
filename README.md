@@ -26,7 +26,22 @@ This project simulates and analyzes a referral network with bonus incentives. It
 - **Language:** Python 3.9+
 - **Dependencies:** `pytest` for testing
 
-### Setup Instructions
+
+## Prerequisites
+- **Python 3.9+** is required.
+- Windows
+  - Download and install it from [python.org/downloads](https://www.python.org/downloads/).  
+  - Make sure to check the box **"Add Python to PATH"** during installation.
+- macOS
+  ```bash
+  brew install python
+  ```
+- Linux (Debian/Ubuntu)
+  ```bash
+  sudo apt update
+  sudo apt install python3 python3-pip
+  ```
+## Setup Instructions
 
 1. Create and activate a virtual environment:
 
@@ -143,3 +158,17 @@ I focused on modular design for easy maintenance and testing. The use of adjacen
   
 **Total Time:** Approximately 14 hours
 ---
+
+---
+
+---
+
+## Developed By
+
+**Nageshwar Bedge**  
+GitHub: [Nageshwar-Bedge](https://github.com/Nageshwar-Bedge)  
+LinkedIn: [linkedin.com/in/bedge-nageshwar](https://www.linkedin.com/in/bedge-nageshwar/)  
+Email: nageshwarbedge17@gmail.com  
+
+---
+
