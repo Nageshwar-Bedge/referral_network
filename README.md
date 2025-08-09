@@ -78,6 +78,7 @@ Run the main simulation program:
 ## Testing
 Run the full test suite using pytest:
 ```bash
+pip install pytest pytest-cov
 pytest --cov=source --cov-report=term-missing
 ```
 This will run all tests and show coverage reports for the source folder.
